@@ -17,3 +17,5 @@ The project contains the following folders:
 <tr><td>splncs04.bst</td><td>current LNCS BibTeX style with alphabetic sorting</td></tr>
 </table>
 
+To run the program:
+1- change the instance name in the FIFO.py, MTWR.py and confg.py and run the FIFO.py
