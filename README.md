@@ -18,4 +18,4 @@ The project contains the following folders:
 </table>
 
 To run the program:
-1- change the instance name in the FIFO.py, MTWR.py and confg.py and run the FIFO.py
+Change the instance name in the FIFO.py, MTWR.py and confg.py and run the FIFO.py
